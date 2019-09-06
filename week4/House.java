@@ -16,7 +16,7 @@ public class House
         numberOfBathrooms = 4;
         numberofBedrooms = 3;
         isRented = false;
-        address = "2324 Address Ln."
+        address = "2324 Address Ln.";
     }
 
 
