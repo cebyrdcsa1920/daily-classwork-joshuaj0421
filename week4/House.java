@@ -14,9 +14,9 @@ public class House
         electricity = true;
         numberOfStories = 2;
         numberOfBathrooms = 4;
-        numberOfBedrooms = 3;
+        numberofBedrooms = 3;
         isRented = false;
-        address = "2324 Address Ln.";
+        address = "2324 Address Ln."
     }
 
 
