@@ -27,6 +27,11 @@ public class Car
         amountOfGas -= distance / mpg;
     }
 
+    /**
+     * Gets the amount of gas in the tank
+     *
+     * @return amount of gas
+     */
     public double getAmountOfGas()
     {
         return amountOfGas;
